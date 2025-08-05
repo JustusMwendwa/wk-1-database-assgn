@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-=======
 -- ================================================
 -- Question 1:Write an SQL query to create a new database called salesDB.
 -- ================================================
@@ -12,6 +9,12 @@ CREATE DATABASE IF NOT EXISTS salesDB;
 -- Step 2: (Optional) Verify that the database has been created
 -- by listing all available databases.
 SHOW DATABASES;
+
+
+
+
+
+
 -- ================================================
 -- Question 2: Write an SQL query to drop (delete) the database called demo
 -- ================================================
@@ -23,4 +26,4 @@ DROP DATABASE IF EXISTS demo;
 -- Step 2: (Optional) Verify that the database has been removed
 -- by listing all available databases.
 SHOW DATABASES;
->>>>>>> ad618d4 (Add answers.sql with SQL queries for database creation and deletion)
+
